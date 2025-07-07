@@ -1,86 +1,95 @@
-<!-- Profile Header Banner -->
+<h1 align="center">Hi there 👋, I'm Ayushmita</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Python Enthusiast | BCA 2025 Graduate</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=200&section=header&text=Hi%20👋%2C%20I'm%20Ayushmita%20Bhattacharjee&fontSize=40&fontColor=ffffff" />
+  <img src="https://komarev.com/ghpvc/?username=Ayushmita24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="center">🌟 BCA Graduate | MERN Stack Developer | AI/ML Enthusiast | Dreaming Big 💻🚀</h3>
+---
+
+### 🙋‍♀️ About Me
+
+- 🎓 BCA graduate from **JIS University** (CGPA: 9.03), Class of 2025  
+- 💡 Passionate about **AI/ML**, **Full-Stack Web Development**, and **Cloud Computing**  
+- 🧾 Built a [Python OCR Expense Tracker App](https://github.com/Ayushmita24/ocr-expense-tracker) using Flask and Tesseract  
+- 🛠️ Currently working on:
+  - 🛍️ E-commerce web app
+  - 📝 Note-taking app (MERN Stack)
+- 📚 Learning: `DSA (Python + Java)`, `TensorFlow`, `AWS`, `Angular`  
+- 📫 Reach me at: **ayushmitabhattacharjee609@gmail.com**  
+- 📍 Based in **Kolkata, India**  
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 Completed **BCA** from **JIS University** in **June 2025**, CGPA: **9.03**
-- 🧠 Passionate about **AI/ML**, **Full-Stack Web Development**, and **Cloud Computing**
-- 🔭 Currently building an **E-commerce Web App** and **Note-Taking App** using the **MARN Stack**
-- 🌱 Learning: **DSA, TensorFlow, AWS, and Angular**
-- 📫 Reach me at: [ayushmitabhattacharjee609@gmail.com](mailto:ayushmitabhattacharjee609@gmail.com)
-- 🌍 Based in: **Kolkata, India**
-- 🔗 Portfolio: _Coming Soon_
-
----
-
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Language Usage
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushmita24&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmita24&layout=compact&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayushmita24&show_icons=true&theme=tokyonight&hide_title=false&count_private=true&hide_border=true&hide=prs,issues" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmita24&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide_title=false" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 My Real Tech Usage (Based on Projects)
+
+| Language / Tool | Usage |
+|------------------|--------|
+| ![Python](https://img.shields.io/badge/Python-60%25-blue?logo=python&logoColor=white) | OCR app, DSA, backend |
+| ![Flask](https://img.shields.io/badge/Flask-15%25-black?logo=flask&logoColor=white) | Python web backend |
+| ![HTML](https://img.shields.io/badge/HTML-10%25-orange?logo=html5&logoColor=white) | UI for projects |
+| ![CSS](https://img.shields.io/badge/CSS-10%25-blueviolet?logo=css3&logoColor=white) | Styling |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-5%25-yellow?logo=javascript&logoColor=black) | Interactions |
 
 ---
 
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ayushmita24&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushmita24&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
 
-### 📌 Certifications
-- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://drive.google.com/file/d/1UU76rQWvd1OYez--ojJLZgoczRNYwwtQ/view?usp=sharing)
+### 📜 Certifications
 
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayushmita-bhattacharjee-b117b5302/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:ayushmitabhattacharjee609@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Ayushmita24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://onlinecourses.nptel.ac.in/)
 
 ---
 
-### 💡 Quote I Live By
+### 📌 Featured Project
 
-> *"First, solve the problem. Then, write the code."*
+#### 🧾 OCR Expense Tracker  
+> Extract expenses from bill images using Python, Tesseract OCR, and Flask.  
+> ✅ Edit/delete entries | 📊 Monthly stats | 🌗 Dark/light mode  
+
+🔗 [Live Demo Coming Soon]  
+🔗 [Source Code on GitHub](https://github.com/Ayushmita24/ocr-expense-tracker)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2C5364,203A43,0F2027&height=120&section=footer"/>
+  💻 Built with love by Ayushmita 💫
 </p>
