@@ -107,6 +107,7 @@ This app allows users to upload receipts or invoices, automatically extract rele
 ### 📸 Screenshots
 
 #### 🔐 Login & Register Pages
+
 <img src="screenshots/login.png" alt="Login Page" width="200"/>  
 <img src="screenshots/register.png" alt="Upload Page" width="200"/>
 
@@ -121,5 +122,12 @@ This app allows users to upload receipts or invoices, automatically extract rele
 <img src="screenshots/dashboard.png" alt="Dashboard Page" width="200"/>
 
 ---
+### 🚀 How to Run Locally
+
+`
+git clone https://github.com/YourUsername/ocr-expense-tracker`
+`cd ocr-expense-tracker`
+`npm install`
+`npm start`
 
 <p align="center"> 💻 Built with ❤️ by <strong>Ayushmita</strong> · ✨ Open to opportunities · ☕ Fueled by code and chai </p> 
