@@ -130,4 +130,4 @@ git clone https://github.com/YourUsername/ocr-expense-tracker`
 `npm install`
 `npm start`
 
-<p align="center"> 💻 Built with ❤️ by <strong>Ayushmita</strong> · ✨ Open to opportunities · ☕ Fueled by code and chai </p> 
+<p align="center"> 💻 Built with ❤️ by <strong>Ayushmita</strong> · ✨ Open to opportunities  </p> 
