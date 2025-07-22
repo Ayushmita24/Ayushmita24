@@ -71,31 +71,55 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayushmita24&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
 ### 📜 Certifications
 
-- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)](https://onlinecourses.nptel.ac.in/)
+- ✅ [Introduction to Machine Learning – IIT Kharagpur (NPTEL)]
+---
+
+# 📄 OCR Expense Tracker
+
+> A smart expense tracker that uses Optical Character Recognition (OCR) to extract and manage data from invoices and receipts.
 
 ---
 
-### 📌 Featured Project
-
-#### 🧾 OCR Expense Tracker  
-> Extract expenses from bill images using Python, Tesseract OCR, and Flask.  
-> ✅ Edit/delete entries | 📊 Monthly stats | 🌗 Dark/light mode  
-
-🔗 [Live Demo Coming Soon]  
-🔗 [Source Code on GitHub](https://github.com/Ayushmita24/ocr-expense-tracker)
+### 🔍 Overview
+This app allows users to upload receipts or invoices, automatically extract relevant details using OCR, and log them into a digital expense record. Ideal for individuals or small businesses tracking expenses with receipts.
 
 ---
 
-<p align="center">
-  💻 Built with love by Ayushmita 💫
-</p>
+### 💡 Features
+- 📸 Upload or scan receipts (image or PDF)
+- 🧠 OCR reads amount, date, vendor, and category
+- 💾 Auto-saves extracted data to backend
+- 📊 View all expenses + dashboard
+- 📂 Export to CSV
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Node.js, Express
+- **OCR Engine:** Tesseract.js
+- **Database:** MongoDB (or any JSON-based storage)
+
+---
+
+### 📸 Screenshots
+
+#### 🔐 Login & Register Pages
+<img src="screenshots/login.png" alt="Login Page" width="200"/>  
+<img src="screenshots/register.png" alt="Upload Page" width="200"/>
+
+#### 🧾 Expense Entry + OCR Upload
+<img src="screenshots/ocr-upload.png" alt="OCR Upload Page" width="200"/>
+<img src="screenshots/ocr-upload-dark.png" alt="OCR Upload Dark Theme" width="200"/>
+
+#### 📁 View All Expenses
+<img src="screenshots/all-expenses.png" alt="All Expenses Page" width="200"/>
+
+#### 📊 Dashboard Visualization
+<img src="screenshots/dashboard.png" alt="Dashboard Page" width="200"/>
+
+---
+
+<p align="center"> 💻 Built with ❤️ by <strong>Ayushmita</strong> · ✨ Open to opportunities · ☕ Fueled by code and chai </p> 
